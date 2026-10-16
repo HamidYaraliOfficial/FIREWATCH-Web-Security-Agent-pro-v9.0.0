@@ -1,0 +1,15 @@
+{
+  "fingerprint": "1270d7b86b6dc72ed0e8fa83ab5d5f7ffea99df50e47bd6033c062e16efd5177",
+  "shard_count": 8,
+  "test_module_count": 58,
+  "test_cases_collected": 5912,
+  "completed_shards": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}
